@@ -1,6 +1,6 @@
 .my-bg-photo {
   background: url('images/mmohwa.jpeg') no-repeat;
-  background-size: contain;
+  background-size: 805px 672px;
   background-position: center center;
   position: relative;
 }
