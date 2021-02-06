@@ -4,6 +4,12 @@
   background-position: center center;
   position: relative;
 }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 
 .my-bg-photo * {
   position: relative;
@@ -21,12 +27,7 @@
   background-color: #000;
   opacity: .65;
 }
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
+
 .my-custom-container {
   max-width: 800px;
 }
