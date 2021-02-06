@@ -1,6 +1,6 @@
 .my-bg-photo {
   background: url('images/logo.JPG') no-repeat;
-  background-size: cover;
+  background-size: auto;
   background-position: center center;
   position: relative;
 }
